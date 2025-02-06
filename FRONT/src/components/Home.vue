@@ -62,7 +62,7 @@
 <script setup lang="ts">
 import { ref } from 'vue';
 import { useRouter } from 'vue-router';
-import Foot from './Foot.vue';
+import Foot from '@/components/foot.vue';
 const searchQuery = ref('');  // Aquí almacenas el texto de búsqueda
 
 const router = useRouter();

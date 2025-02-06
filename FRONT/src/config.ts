@@ -1,2 +1,2 @@
-const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || "http://localhost:3001/api";
-export default API_BASE_URL;
+const VITE_API_BASE_URL="https://bazar-back-l9wm.onrender.com";
+export default VITE_API_BASE_URL;

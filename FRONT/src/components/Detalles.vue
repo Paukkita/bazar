@@ -47,7 +47,7 @@
 <script setup lang="ts">
 import { useToast } from "vue-toastification";
 import Header from "./Header.vue";
-import foot from "./foot.vue";  
+import foot from "./Foot.vue";  
 
 const toast = useToast();
 const props = defineProps<{ producto: any; cargando: boolean }>();

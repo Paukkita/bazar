@@ -47,17 +47,17 @@ Actualmente en desarrollo, este bazar pretende integrar futuras funcionalidades 
 
 ## Diseño de la pagina y funcionamiento básico
 Imagen de diseño principal de la página:
-![image](https://github.com/user-attachments/assets/bef40519-11e7-4a0b-953c-285ec50502b9)
+- ![image](https://github.com/user-attachments/assets/bef40519-11e7-4a0b-953c-285ec50502b9)
 
 Imagen de busqueda:
-![image](https://github.com/user-attachments/assets/81b43379-1ec1-4b5a-9e43-c696d03fd575)
-![image](https://github.com/user-attachments/assets/498a2153-9835-4b90-8f82-e7c49947b0b0)
+- ![image](https://github.com/user-attachments/assets/81b43379-1ec1-4b5a-9e43-c696d03fd575)
+- ![image](https://github.com/user-attachments/assets/498a2153-9835-4b90-8f82-e7c49947b0b0)
 
 Boton de filtrado segun categoria deseada
-![image](https://github.com/user-attachments/assets/a2a4816d-04ed-4268-80bc-4ff7ba90f8e3)
+- ![image](https://github.com/user-attachments/assets/a2a4816d-04ed-4268-80bc-4ff7ba90f8e3)
 
 Menu de compra para añadir al carrito
-![image](https://github.com/user-attachments/assets/4a7cde4f-8ecc-4a3f-8b90-df77f83759ba)
+- ![image](https://github.com/user-attachments/assets/4a7cde4f-8ecc-4a3f-8b90-df77f83759ba)
 
 
 

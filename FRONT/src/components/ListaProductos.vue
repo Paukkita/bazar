@@ -78,7 +78,7 @@
 </template>
 
 <script setup lang="ts">
-import Foot from './Foot.vue';
+import Foot from '@/components/Foot.vue';
 import Header from './Header.vue';
 import { ref, computed, watch } from 'vue';
 import { useRouter } from 'vue-router';

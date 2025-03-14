@@ -1,5 +1,5 @@
 # 🛍️ Proyecto Bazar - Plataforma de Compras Online diseñado para pantallas de tamaño Iphone 12
-
+## Estado: 🚧 En Desarrollo
 ## 🌐 Enlace a la Tienda  
 [Visitar Bazar 🚀](https://stately-stardust-f9304f.netlify.app)  
 
